@@ -103,6 +103,7 @@
         prob: 0.15
       - id: DoorRemoteEngineering
       - id: RubberStampCE
+      - id: EmagFixer
 
 - type: entity
   id: LockerChiefMedicalOfficerFilled
